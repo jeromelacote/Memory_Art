@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="fr">
+
+  <file datatype="plaintext" original="exploration_final_Android.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ID_BASELINE_STR">
+        <source>La découverte des animaux pour les petits !</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_ID_FULLVERSION_STR">
+        <source>Acheter plus de scènes!</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_ID_FULLVERSIONDESC_STR">
+        <source>Pour profiter animaux les plus drôles, débloquer plus de scènes!</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_ID_GETMORE_STR">
+        <source>Plus de scènes!</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_ID_MIKASWORLD_STR">
+        <source>Le Monde de Mika</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_ID_START_STR">
+        <source>C&apos;est parti!</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
